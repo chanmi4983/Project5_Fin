@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="board">
+    <insert id="insertBoard">
+-- seq 없앴는데 나중에 필요하면 추가..
+        insert into FriendBOARD (name, birthday, mbti, email, phonenum, studentid, major,rc)
+        values (#{name}, #{birthday}, #{mbti}, #{email}, #{phonenum}, #{studentid}, #{major},#{rc})
+    </insert>
+    <update id="updateBoard">
+        update FriendBOARD
+        set name=#{name}, birthday=#{birthday}, mbti=#{mbti}, email= #{email}, phonenum= #{phonenum}, studentid=#{studentid},major= #{major}, rc=#{rc} where seq=#{seq}
+    </update>
+    <delete id="deleteBoard">
+        delete from FriendBOARD  where seq=#{seq}
+    </delete>
+    <select id="getBoard" resultType="board">
+        select * from FriendBOARD  where seq=#{seq}
+    </select>
+    <select id="getBoardList" resultType="board">
+        select * from FriendBOARD order by seq desc
+    </select>
+</mapper>
