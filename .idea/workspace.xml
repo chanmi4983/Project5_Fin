@@ -27,6 +27,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ejPark43"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5612bee9-da1f-4e8b-a278-ca6074f51189" />
+        <option name="url" value="https://github.com/ejPark43/Project5_Fin.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -181,7 +195,7 @@
       <workItem from="1702643725964" duration="4347000" />
       <workItem from="1702648598633" duration="530000" />
       <workItem from="1702649138055" duration="10000" />
-      <workItem from="1702649165021" duration="13846000" />
+      <workItem from="1702649165021" duration="13944000" />
     </task>
     <task id="LOCAL-00001" summary="application, servlet xml">
       <option name="closed" value="true" />
@@ -191,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702704760536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="application, servlet xml">
+      <option name="closed" value="true" />
+      <created>1702704785045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702704785045</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
