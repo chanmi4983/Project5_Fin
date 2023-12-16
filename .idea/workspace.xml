@@ -9,21 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccec310b-2821-47b3-ac55-553e3f8ba0c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/member/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/member/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/member/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/member/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/member/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/member/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/member/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/member/UserVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/util/LoginCheckInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/util/LoginCheckInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/board-mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/board-mapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/user-mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/user-mapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataSourceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataSourceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ccec310b-2821-47b3-ac55-553e3f8ba0c3" name="Changes" comment="application, servlet xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,11 +181,24 @@
       <workItem from="1702643725964" duration="4347000" />
       <workItem from="1702648598633" duration="530000" />
       <workItem from="1702649138055" duration="10000" />
-      <workItem from="1702649165021" duration="13282000" />
+      <workItem from="1702649165021" duration="13846000" />
     </task>
+    <task id="LOCAL-00001" summary="application, servlet xml">
+      <option name="closed" value="true" />
+      <created>1702704760535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702704760536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="application, servlet xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="application, servlet xml" />
   </component>
 </project>
